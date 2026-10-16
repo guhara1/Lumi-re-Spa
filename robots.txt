@@ -1,0 +1,35 @@
+# 전면 허용 — 수집을 막는 줄은 두지 않습니다
+User-agent: *
+Allow: /
+
+User-agent: Yeti
+Allow: /
+
+User-agent: NaverBot
+Allow: /
+
+User-agent: Daumoa
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: bingbot
+Allow: /
+
+Sitemap: https://lumi-re-spa.pages.dev/sitemap.xml
+Sitemap: https://lumi-re-spa.pages.dev/sitemap-latest.xml
+Sitemap: https://lumi-re-spa.pages.dev/sitemap-fast.xml
+Sitemap: https://lumi-re-spa.pages.dev/sitemap-hub.xml
+Sitemap: https://lumi-re-spa.pages.dev/sitemap-1.xml
+Sitemap: https://lumi-re-spa.pages.dev/sitemap-2.xml
+Sitemap: https://lumi-re-spa.pages.dev/sitemap-3.xml
+Sitemap: https://lumi-re-spa.pages.dev/sitemap-4.xml
+Sitemap: https://lumi-re-spa.pages.dev/sitemap-5.xml
+Sitemap: https://lumi-re-spa.pages.dev/sitemap-6.xml
+Sitemap: https://lumi-re-spa.pages.dev/sitemap-7.xml
+Sitemap: https://lumi-re-spa.pages.dev/sitemap-8.xml
+Sitemap: https://lumi-re-spa.pages.dev/rss.xml
